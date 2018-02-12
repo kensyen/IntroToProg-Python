@@ -1,2 +1,2 @@
 # IntroToProg-Python
-Thi Rep. will be used to for reviewing homework files
+This Rep. will be used to for reviewing homework files
